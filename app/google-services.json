@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "609523146352",
+    "firebase_url": "https://ferhat-97dee.firebaseio.com",
+    "project_id": "ferhat-97dee",
+    "storage_bucket": "ferhat-97dee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609523146352:android:e0961e96e5b68bf0",
+        "android_client_info": {
+          "package_name": "com.brute.ferhat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609523146352-p0i0vkbf75ikqoe0a88j78in8fk616ma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Lm5vzahrhpGfLHV4sPr-ScpiGPsbE9w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
